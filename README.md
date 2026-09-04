@@ -10,9 +10,7 @@ A responsive personal portfolio website by **Ricky Galicinao**, built as part of
 
 ## Screenshot
 
-> Add a homepage screenshot to your `images/` folder, then update the path below.
-
-![Portfolio Homepage](images/portfolio-homepage.png)
+![Portfolio Homepage](images/portfolio-homepage.PNG)
 
 ## Technologies Used
 
